@@ -1,14 +1,6 @@
 @charset "ISO-8859-1";
 
 
-/* alguns padroes de cores */
-:root{
-	
-	--box-shadow:0 5px 10px rgba(0,0,0,.1);
-	--border: 2px black;
-	
-}
-
 * {
 	font-family: serif;
 	margin: 0; 
