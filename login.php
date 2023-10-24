@@ -53,8 +53,8 @@ if (isset($message)) {
 
 		<form action="" method="post">
 			<h3>Fazer Login</h3>
-			<input type="email" name="email" required placeholder="enter email" class="box"> 
-			<input type="password" name="password" required placeholder="enter password" class="box">
+			<input type="email" name="email" required placeholder="E-mail" class="box"> 
+			<input type="password" name="password" required placeholder="Senha" class="box">
 			<input type="submit" name="submit" class="btn" value="Entrar"> 
 			<a href="register.php" class="btn">Criar conta</a>
 		</form>
