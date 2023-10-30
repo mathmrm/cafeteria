@@ -11,5 +11,6 @@ Crie pasta cafeteria e coloque os arquivos php, crie subpastas images e css, col
 Ligue o XAMPP e inicie o Apache e MySQL
 
 Para o banco de dados funcionar, o endereço padrão dos arquivos é C:/xampp/mysql/data/shop_db   (crie a pasta shop_db). Os arquivos são de extensão .frm, .ibd. opt.
+Coloque os arquivos ib_logfile0, ib_logfile1, ibdata1, ibtmp1, na pasta xampp/mysql/data.
 
 Depois, inicia seu navegador e digita na barra de endereço: localhost/cafeteria, o aplicativo irá começar.
